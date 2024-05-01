@@ -1,6 +1,6 @@
 # Implementations for Unity Engine Game
 **Collections of my implementations in Unity Game Engine**
-__Contains Everything from Basic to Complicated.__
+Contains Everything from Basic to Complicated.
 
 >[!WARNING]
->PS. I'M BAD AT DOCUMENTING!
+>I'm bad at documentation.
