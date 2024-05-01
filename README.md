@@ -3,7 +3,9 @@
 Contains Everything from Basic to Complicated.
 
 
-_Open the scripts and make reading a habit_
+
+
+_Open the scripts and make reading a habit._
 
 >[!WARNING]
 >I'm bad at documentation.
