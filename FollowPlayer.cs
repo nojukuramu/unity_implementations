@@ -7,13 +7,6 @@ public class FollowPlayer : MonoBehaviour
     public Transform player; //Reference the player position
     public float speed; //This will be 0 default to inspector
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
     void Update()
     {
         //Use Vector2.MoveTowards to move this object to the player position. speed * deltaTime will work regardless of framerate
