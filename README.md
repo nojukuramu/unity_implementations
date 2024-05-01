@@ -3,7 +3,7 @@
 Contains Everything from Basic to Complicated.
 
 <p align="center">
-*Open the scripts and make reading a habit*
+_Open the scripts and make reading a habit_
 
 >[!WARNING]
 >I'm bad at documentation.
