@@ -9,6 +9,7 @@ I. Scene setup:
    2. Attach both files in an object.
    3. Make a Legacy Text game object.
    3. Reference the Legacy Text game object to the MacroInterpreter.
+
 II. Text file setup:
    1. In your project window, navigate to Asset/StreamingAsset. If it doesn't exist, create a folder.
    2. create a text file named macro.txt
