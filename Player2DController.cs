@@ -8,11 +8,6 @@ public class Player2DController : MonoBehaviour
     Vector2 move;
     public float movementSpeed; //this will be default to 0. Change Value On Inspector
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
     // Update is called once per frame
     void Update()
