@@ -4,7 +4,7 @@ using System.IO;
 public class TextFileReader : MonoBehaviour
 {
     // Name of the text file you want to read
-    public string fileName = "macro.txt";
+    public string fileName = "macro.txt"; //change this on whatever your txtfile name
 
     // Function to read the text file line by line
     public string ReadTextFile(float lineNumberToRead)
